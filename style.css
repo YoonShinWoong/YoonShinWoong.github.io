@@ -13,7 +13,10 @@ body a
     color: #23214c;
     transition: color .2s linear;
 }
-
+body em{
+    font-size: small;
+    font-style: italic;
+}
 body a:hover
 {
     color: #ee87a4;
@@ -1320,7 +1323,7 @@ footer
 
     .blog-item-holder .entry-title 
     {   
-        width: 240px;
+        width: 500px;
     } 
 
     .single-portfolio .entry-content .one
