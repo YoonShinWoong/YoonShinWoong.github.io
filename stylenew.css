@@ -560,7 +560,9 @@ div.pp_default .pp_loaderIcon
 }
 
 /* END PORTFOLIO SECTION*/
-
+div.author.vcard{
+    font-style: normal;
+}
 
 
 /* ABOUT SECTION */
@@ -610,6 +612,7 @@ div.pp_default .pp_loaderIcon
 
 .member-name
 {
+    font-style: normal;
     line-height: 26px;
     font-size: 16px;
     font-weight: 700;
@@ -618,6 +621,7 @@ div.pp_default .pp_loaderIcon
 
 .member-position
 {
+    font-style: normal;
     line-height: 16px;
     font-size: 14px;
     padding-bottom: 50px;
@@ -627,7 +631,8 @@ div.pp_default .pp_loaderIcon
 
 .member-content
 {
-    line-height: 26px;    
+    line-height: 26px;  
+    font-style: normal;
 }
 
 .image-slider-wrapper.img .image-slider li img
