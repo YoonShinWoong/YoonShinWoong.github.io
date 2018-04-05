@@ -278,7 +278,7 @@ body a:hover
 
 h1.big-title
 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Gloria Hallelujah', cursive;
     font-size: 56px;
     font-weight: 700;
     line-height: 100%;
@@ -288,6 +288,10 @@ h1.big-title
     width: 95%;
     margin-left: auto;
     margin-right: auto;
+}
+
+.menu-text{
+    font-family: 'Gloria Hallelujah', cursive;
 }
 
 .big-title span 
@@ -304,7 +308,11 @@ h1.big-title
     margin: 0 auto;
     color: #fff;
 }
-
+.title-text{
+    font-size: 30px;
+    font-family: 'Indie Flower', cursive;
+    color: white;
+}
 .page-template-page-home .intro-page footer
 {
     position: absolute;
@@ -1361,7 +1369,9 @@ footer
     }    
 
 }
-
+p{
+    font-family: 'Gloria Hallelujah', cursive;
+}
 @media screen and (max-width: 1020px) {    
 
     .content-1170 
